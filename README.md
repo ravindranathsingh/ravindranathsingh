@@ -1,7 +1,6 @@
 ### 👋 Hey, I'm Ravindranath
   
 -  Technical Support Engineer-II
-## <a href="https://drive.google.com/file/d/10NBpqkbvLK1wDItAf7nXnYB0DIJTN3hz/view?usp=sharing">Resume</a>
 
 <hr/>
 
