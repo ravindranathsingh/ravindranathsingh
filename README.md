@@ -99,15 +99,13 @@ A complete end-to-end DevOps platform built from scratch demonstrating modern CI
 
 ## 📈 GitHub Stats
 
-<div align="center">
+![](https://github-readme-stats.shion.dev/api?username=ravindranathsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ravindranathsingh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ravindranathsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ravindranathsingh&show_icons=true&hide_border=true&theme=github_dark"/>
+---
+[![](https://komarev.com/ghpvc/?username=ravindranathsingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindranathsingh&layout=compact&hide_border=true&theme=github_dark"/>
-
-</div>
 
 ---
 
