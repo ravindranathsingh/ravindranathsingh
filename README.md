@@ -6,7 +6,7 @@ I am an Infrastructure Engineer with **4+ years of experience** supporting enter
 
 Outside my day-to-day role, I have designed and implemented a **production-style DevOps platform** demonstrating modern CI/CD and GitOps practices using Kubernetes, Docker, Jenkins, Helm, and Argo CD.
 
-Currently exploring **AWS**, **Terraform**, and Cloud Infrastructure while continuously improving automation, deployment reliability, and cloud-native engineering skills.
+Currently expanding my expertise in **AWS Cloud**, **Terraform**, and cloud-native infrastructure while continuously improving automation, deployment reliability, and platform engineering skills.
 
 ---
 
@@ -21,8 +21,8 @@ Currently exploring **AWS**, **Terraform**, and Cloud Infrastructure while conti
 - CI/CD Automation
 - Linux Administration
 - Bash Automation
-- AWS (Learning)
-- Terraform (Learning)
+- AWS Cloud ☁️
+- Terraform
 
 ---
 
@@ -51,13 +51,10 @@ Currently exploring **AWS**, **Terraform**, and Cloud Infrastructure while conti
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45"/>
 <img width="18"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="45"/>
-<img width="18"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
 <img width="18"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="45"/>
 
 </div>
 
@@ -67,22 +64,20 @@ Currently exploring **AWS**, **Terraform**, and Cloud Infrastructure while conti
 
 ### 🚀 Production-Grade CI/CD & GitOps Platform
 
-A complete end-to-end DevOps platform built from scratch demonstrating modern deployment automation.
+A complete end-to-end DevOps platform built from scratch demonstrating modern CI/CD and GitOps practices.
 
 ### Highlights
 
-- Dockerized backend & frontend applications
-- Custom Jenkins Controller Image
-- Jenkins deployed on Kubernetes using Helm
-- Declarative CI/CD Pipelines
-- GitHub Container Registry (GHCR)
-- Automated Image Versioning
-- Helm-based Kubernetes Deployments
-- GitOps with Argo CD
-- Auto Sync
-- Self Healing
-- Auto Pruning
-- Production-style troubleshooting across Jenkins, Kubernetes, Docker and Argo CD
+- Containerized backend and frontend applications using Docker
+- Built a custom Jenkins Controller image with Docker CLI, Helm, kubectl and Git
+- Deployed Jenkins on Kubernetes using Helm
+- Developed declarative CI/CD pipelines
+- Published container images to GitHub Container Registry (GHCR)
+- Automated image versioning and Helm chart updates
+- Implemented GitOps deployment using Argo CD
+- Enabled Auto Sync, Self Healing and Auto Pruning
+- Managed Kubernetes deployments with reusable Helm charts
+- Debugged production-style issues across Jenkins, Docker, Kubernetes, Helm and Argo CD
 
 ---
 
@@ -96,7 +91,7 @@ A complete end-to-end DevOps platform built from scratch demonstrating modern de
 - Kubernetes Troubleshooting
 - Containerization
 - CI/CD Pipeline Design
-- GitOps Workflows
+- GitOps
 - Automation
 - Shell Scripting
 
@@ -119,9 +114,6 @@ A complete end-to-end DevOps platform built from scratch demonstrating modern de
 ## 🤝 Let's Connect
 
 💼 LinkedIn  
-🔗 https://linkedin.com/in/ravindranath-singh-devops
+https://linkedin.com/in/ravindranath-singh-devops
 
-📂 GitHub  
-🔗 https://github.com/ravindranathsingh
-
-⭐ Always interested in DevOps, Platform Engineering, Kubernetes and Cloud Infrastructure.
+⭐ Open to DevOps, Platform Engineering, Cloud Infrastructure and SRE opportunities.
