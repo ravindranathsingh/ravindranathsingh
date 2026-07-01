@@ -7,121 +7,84 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Cloud-Native+Infrastructure;Automating+Deployments+with+CI%2FCD;Kubernetes+%7C+Docker+%7C+Jenkins+%7C+Helm+%7C+Argo+CD;Always+Learning+%7C+Always+Building" />
 
 </div>
-I am an Infrastructure Engineer with **4+ years of experience** supporting enterprise production environments, specializing in Linux administration, infrastructure troubleshooting, production incident management, and root cause analysis.
-
-Outside my day-to-day role, I have designed and implemented a **production-style DevOps platform** demonstrating modern CI/CD and GitOps practices using Kubernetes, Docker, Jenkins, Helm, and Argo CD.
-
-Currently expanding my expertise in **AWS Cloud**, **Terraform**, and cloud-native infrastructure while continuously improving automation, deployment reliability, and platform engineering skills.
 
 ---
 
-## 🚀 Current Focus
+### About Me
 
-- Kubernetes
-- Docker
-- Jenkins
-- Helm
-- Argo CD
-- GitOps
-- CI/CD Automation
-- Linux Administration
-- Bash Automation
-- AWS Cloud ☁️
-- Terraform
+Infrastructure Engineer with **4+ years** of experience supporting enterprise Linux production environments, specializing in **Linux administration, incident response, infrastructure troubleshooting, and root cause analysis**.
+
+Built a **production-grade CI/CD & GitOps platform** using **Docker, Kubernetes, Jenkins, Helm, GHCR, and Argo CD**, demonstrating end-to-end automation from source code to Kubernetes deployment.
+
+Currently exploring **AWS Cloud, Terraform, and cloud-native platform engineering**.
 
 ---
 
-## 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
-<img width="18"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,jenkins,linux,git,github,bash,python,aws,terraform,ansible,prometheus,grafana" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45"/>
-<img width="18"/>
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="45"/>
-<img width="18"/>
+<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
-<img width="18"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-<img width="18"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-<img width="18"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45"/>
-<img width="18"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-<img width="18"/>
-
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="45"/>
+**Helm • Argo CD • GHCR • Trivy • SonarQube • Loki • NGINX Ingress**
 
 </div>
 
 ---
 
-## 📌 Featured Project
+## Featured Project
 
-### 🚀 Production-Grade CI/CD & GitOps Platform
+### Production-Grade CI/CD & GitOps Platform
 
-A complete end-to-end DevOps platform built from scratch demonstrating modern CI/CD and GitOps practices.
+Designed and built a complete DevOps platform demonstrating modern **CI/CD**, **GitOps**, and **Kubernetes-native deployment** practices.
 
-### Highlights
+**Highlights**
 
-- Containerized backend and frontend applications using Docker
-- Built a custom Jenkins Controller image with Docker CLI, Helm, kubectl and Git
+- Dockerized backend and frontend applications
 - Deployed Jenkins on Kubernetes using Helm
-- Developed declarative CI/CD pipelines
-- Published container images to GitHub Container Registry (GHCR)
-- Automated image versioning and Helm chart updates
-- Implemented GitOps deployment using Argo CD
-- Enabled Auto Sync, Self Healing and Auto Pruning
-- Managed Kubernetes deployments with reusable Helm charts
-- Debugged production-style issues across Jenkins, Docker, Kubernetes, Helm and Argo CD
+- Automated build, image publishing, and deployment pipelines
+- Published versioned images to GitHub Container Registry (GHCR)
+- Implemented GitOps deployments with Argo CD (Auto Sync, Self-Healing & Auto-Pruning)
+- Created reusable Helm charts for Kubernetes deployments
+- Troubleshot real-world issues across Jenkins, Docker, Kubernetes, Helm, Git, and Argo CD
 
 ---
 
-## 💡 Core Competencies
+### Engineering Focus
 
-- Linux Administration
-- Infrastructure Operations
-- Production Support
-- Incident Management
-- Root Cause Analysis
-- Kubernetes Troubleshooting
-- Containerization
-- CI/CD Pipeline Design
-- GitOps
-- Automation
-- Shell Scripting
+| Infrastructure | DevOps | Platform Engineering |
+|:--------------:|:-------:|:--------------------:|
+| Linux Administration | CI/CD Automation | Kubernetes |
+| Infrastructure Troubleshooting | GitOps | Helm |
+| Incident Response | Docker | Argo CD |
+| Root Cause Analysis | Jenkins | Cloud-Native Deployments |
 
 ---
 
-## 📈 GitHub Stats
+### GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=ravindranathsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<img width="48%" src="https://github-readme-stats.shion.dev/api?username=ravindranathsingh&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=ravindranathsingh&theme=dark&hide_border=false" />
-
-<br><br>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ravindranathsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ravindranathsingh&theme=github_dark&hide_border=true&layout=compact&langs_count=8&hide=html,css"/>
 
 </div>
+
 ---
 
-## 🤝 Let's Connect
+### Let's Connect
 
-💼 LinkedIn  
-https://linkedin.com/in/ravindranath-singh-devops
+<div align="center">
 
-⭐ Open to DevOps, Platform Engineering, Cloud Infrastructure and SRE opportunities.
+<a href="https://linkedin.com/in/ravindranath-singh-devops">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+**Open to DevOps • Platform Engineering • Cloud Infrastructure • SRE opportunities**
+
+</div>
