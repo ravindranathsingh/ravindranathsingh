@@ -1,7 +1,12 @@
-# 👋 Hi, I'm Ravindranath Singh
+<div align="center">
 
-## DevOps Engineer | Linux Infrastructure | Kubernetes | Docker | CI/CD | GitOps
+# Ravindranath Singh
 
+### DevOps Engineer | Kubernetes | Docker | Jenkins | Linux | CI/CD | GitOps
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Cloud-Native+Infrastructure;Automating+Deployments+with+CI%2FCD;Kubernetes+%7C+Docker+%7C+Jenkins+%7C+Helm+%7C+Argo+CD;Always+Learning+%7C+Always+Building" />
+
+</div>
 I am an Infrastructure Engineer with **4+ years of experience** supporting enterprise production environments, specializing in Linux administration, infrastructure troubleshooting, production incident management, and root cause analysis.
 
 Outside my day-to-day role, I have designed and implemented a **production-style DevOps platform** demonstrating modern CI/CD and GitOps practices using Kubernetes, Docker, Jenkins, Helm, and Argo CD.
