@@ -22,7 +22,7 @@ Currently exploring **AWS Cloud, Terraform, and cloud-native platform engineerin
 
 ### Tech Stack
 
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,git,github,bash,py,aws,terraform,ansible,prometheus,grafana&perline=7" />
 
