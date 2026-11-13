@@ -24,7 +24,7 @@ Currently exploring **AWS Cloud, Terraform, and cloud-native platform engineerin
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,jenkins,linux,git,github,bash,python,aws,terraform,ansible,prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,git,github,bash,py,aws,terraform,ansible,prometheus,grafana&perline=7" />
 
 </div>
 
@@ -76,14 +76,6 @@ Designed and built a complete DevOps platform demonstrating modern **CI/CD**, **
 </div>
 
 ---
-
-### Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/ravindranath-singh-devops">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 **Open to DevOps • Platform Engineering • Cloud Infrastructure • SRE opportunities**
 
